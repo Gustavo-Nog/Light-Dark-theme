@@ -1,6 +1,6 @@
 # LIGHT-DARK-Theme
 
-Site simples que alterna o fundo e as cores do texto a partir de uma checkboc
+Site simples que alterna o fundo e as cores do texto a partir de uma checkbox
 
 
 FUNCIONALIDADES:
